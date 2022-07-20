@@ -1,0 +1,10 @@
+{
+"DB_USER" : "test",
+"DB_PASSWD" : "test123",
+"DB_HOST" : "172.25.2.117",
+"DB_NAME" :  "test_deep",
+"DB_PORT" : 3306,
+"DB_FIELD": "server_dbID, app_code, app_name, server_platform, server_version, hostname_ip, hostEnvironment",
+"TABLE_NAME": "Testtable",
+"APP_CODE": 5
+}
